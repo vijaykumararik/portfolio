@@ -1,0 +1,1 @@
+//write program to add 2 numbers in javascript?

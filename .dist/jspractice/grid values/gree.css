@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+body{
+    background-color: azure;
+}
+.container{
+    width: 100vw;
+    height: auto;
+    display: grid;
+    row-gap: 50px;
+    column-gap:50px;
+    grid-template-columns: 200px 200px 200px ;
+    /* grid-template-rows: 100px 100px 100px; */
+}
+.inner{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    /* margin: auto; 
+    
+     */
+   /* padding:25px; */
+   font-size: 30px;
+
+
+}
