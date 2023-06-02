@@ -46,9 +46,10 @@ const Education = () => {
         <div className="mt-6 lgl:mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
             title=" Software Engineer"
-            subTitle="Nirvanasoft tech - (2021 - Present)"
+            subTitle="Software development course in jspiders"
             result="Bangalore"
-            des="I am in UI developement using REACTJS tool and i worked in hospital management project  "
+            des="I have skills like HTML,CSS JAVASCRIPT ,REACTJS,JAJA,HIBERNATE,SPRINGBOOT,
+            and have complete knowledge about the tools like GIT,GITHUB,POSTMAN,VSCODE,ECLIPSE  "
           />
           <ResumeCard
             title="Mathematics subject matter expert"
