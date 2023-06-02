@@ -40,7 +40,7 @@ const Features = () => {
         />
         <Card
           title="Hibernate/mysql database"
-          des="Have good knowledge Creating entity class and add the properties into database~"
+          des="Have good knowledge Creating entity class and add the properties into database"
           icon={<FaMobile />}
         />
         <Card
