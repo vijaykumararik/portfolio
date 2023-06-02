@@ -15,38 +15,38 @@ const Features = () => {
       <div className="grid  grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-20">
         <Card
           title="Web application development"
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque soluta
-          hic consequuntur eum repellendus ad."
+          des="Creating responsive web design using reactjs and javascript concepts 
+          and Using reactjs library making it more attractive"
          
         />
         <Card
-          title="Creating best css"
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque soluta
-          hic consequuntur eum repellendus ad."
+          title="Good understanding of javascript and reactjs"
+          des="Have complete knowledge of javascript concepts like destructuring 
+          objects array methods ,promise and Dom concepts and in reactjs i have very good 
+          understading of reactjs hooks ,virtual dom concepts ,react router concept,and making 
+          more responsive web development"
           icon={<AiFillAppstore />}
         />
         <Card
-          title="Tailwind css analaysis"
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque soluta
-          hic consequuntur eum repellendus ad."
+          title=" HTML/CSS design and  analaysis"
+          des=" have knowledge of all css properties like display position and box modeling concepts
+          and making good designs  "
           icon={<SiProgress />}
         />
         <Card
-          title="UX Design"
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque soluta
-          hic consequuntur eum repellendus ad."
-          icon={<FaMobile />}
-        />
-        <Card
           title="Java programing"
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque soluta
-          hic consequuntur eum repellendus ad."
+          des="Good understanding about java opps and exceptions concepts "
           icon={<SiAntdesign />}
         />
         <Card
-          title="Hosting Websites"
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque soluta
-          hic consequuntur eum repellendus ad."
+          title="Hibernate/mysql database"
+          des="Have good knowledge Creating entity class and add the properties into database~"
+          icon={<FaMobile />}
+        />
+        <Card
+          title="Spring boot application developments"
+          des="Good understanding about springboot architecture ,Developing restfull apis using spring boot tool
+          understanding of http methods,and have knowledege of how to work with postman "
           icon={<FaGlobe />}
         />
       </div>
