@@ -24,7 +24,7 @@ const Experience = () => {
           />
           <ResumeCard
             title="Mathematics subject matter expert"
-            subTitle="Doubtnut - (2020 - 2021)"
+            subTitle="Doubtnut"
             result="Gurgaon"
             des="Iam working on the project that i need to check quality of content developed by experts according to the requirments."
           />

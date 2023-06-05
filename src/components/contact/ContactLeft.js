@@ -16,14 +16,13 @@ const ContactLeft = () => {
           Software Developer
         </p>
         <p className="text-base text-gray-400 tracking-wide">
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facilis
-          ipsam autem cumque, accusantium dicta odio.
+          Software developer with good software developing knowledge
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
           Phone: <span className="text-lightText">+6362363710</span>
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
-          Email: <span className="text-lightText">vijay@gmail.com</span>
+          Email: <span className="text-lightText">vijaykumararikatti@gmail.com</span>
         </p>
       </div>
       <div className="flex flex-col gap-4">

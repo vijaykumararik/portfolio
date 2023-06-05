@@ -27,8 +27,8 @@ const LeftBanner = () => {
           />
         </h2>
         <p className="text-base font-bodyFont leading-6 tracking-wide">
-          I use create web applicatons as per the the clients requirments and i love to do
-          code with creativeness so that it will reach clients expectations and like more 
+          I use create web applicatons as per  requirments and i love to do
+          code with creativeness so that it will reach  expectations and like more 
           intrested in front end developemt and very exaited to work with new technology
         </p>
       </div>
