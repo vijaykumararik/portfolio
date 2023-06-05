@@ -5,7 +5,7 @@ import {  SiJavascript, SiHtml5, SiCss3 } from "react-icons/si";
 
 const LeftBanner = () => {
     const [text] = useTypewriter({
-      words: ["Professional Coder.", "Reactjs Developer.", "UI Designer."],
+      words: ["Professional Coder.", "Software Developer.", "Software Designer."],
       loop: true,
       typeSpeed: 20,
       deleteSpeed: 10,
@@ -27,9 +27,11 @@ const LeftBanner = () => {
           />
         </h2>
         <p className="text-base font-bodyFont leading-6 tracking-wide">
-          I use create web applicatons as per  requirments and i love to do
-          code with creativeness so that it will reach  expectations and like more 
-          intrested in front end developemt and very exaited to work with new technology
+        Software developer, I am proficient with HTML, CSS, JS,Java and Reactjs and
+Springboot Frameworks, with good programming knowledge and logical
+implementation, and  like work in real-time application development and
+have knowledge of  real-time requirements and scale of the project like to Woke in a
+team to achieve company goals and Completing tasks according to the requirements.
         </p>
       </div>
       <div className="flex  flex-col xl:flex-row gap-6 lgl:gap-0 justify-between">
